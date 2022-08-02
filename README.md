@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kshitij
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 🌱 I’m currently preparing for my interviews(Data Structures and Algorithms).
 - 📫 Reach me on my email - ksharma67@gmail.com
 
 <!---
