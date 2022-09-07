@@ -14,13 +14,13 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47yt8kg1imy1bd0a35cicl2efobwqvt56go6rkfzed&rid=giphy.gif&ct=g" width="500" height="250"/>
 </div>
 
 ---
 
 About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Full Stack Developer <img src="https://media1.giphy.com/media/cqPzadRAjAsGfWEGXK/giphy.gif?cid=ecf05e47eeanczbhw1ca6li0rvk8lqqs56g6jtt6fqi48ajq&rid=giphy.gif&ct=s" width="30">.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Object-oriented design and Systems design.
