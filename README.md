@@ -71,11 +71,6 @@ I am a Full Stack Developer <img src="https://media1.giphy.com/media/cqPzadRAjAs
 
 ---
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ksharma67&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
