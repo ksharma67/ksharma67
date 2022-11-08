@@ -72,6 +72,9 @@ I am a Full Stack Developer <img src="https://media1.giphy.com/media/cqPzadRAjAs
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" title="Atom" **alt="Atom" width="40" height="40"/>&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" title="FireZilla" **alt="FireZilla" width="40" height="40"/>&nbsp;   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" title="Heroku" **alt="Heroku" width="40" height="40"/>&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" **alt="Kaggle" width="40" height="40"/>&nbsp; 
 </div>
 
 ---
