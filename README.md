@@ -87,7 +87,7 @@ I am a Full Stack Developer <img src="https://media1.giphy.com/media/cqPzadRAjAs
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=ksharma67&theme=highcontrast&hide_border=true&ring=DD2727)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=ksharma67&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksharma67&layout=compact&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
