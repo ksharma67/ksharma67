@@ -22,7 +22,7 @@
 
 ---
 
-About Me :
+**About Me :**
 I am a Full Stack Developer <img src="https://media1.giphy.com/media/cqPzadRAjAsGfWEGXK/giphy.gif?cid=ecf05e47eeanczbhw1ca6li0rvk8lqqs56g6jtt6fqi48ajq&rid=giphy.gif&ct=s" width="30">.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -93,6 +93,11 @@ I am a Full Stack Developer <img src="https://media1.giphy.com/media/cqPzadRAjAs
 
 ---
 
+### :trophy: My Trophy :
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksharma67" alt="ksharma67" /></a> </p>
+
+---
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
