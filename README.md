@@ -93,9 +93,9 @@ I am a Full Stack Developer <img src="https://media1.giphy.com/media/cqPzadRAjAs
 
 ---
 
-### :trophy: My Trophy :
+### :trophy: GitHub Trophy :
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksharma67" alt="ksharma67" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksharma67" alt="ksharma67" /></a>
 
 ---
 <!---
