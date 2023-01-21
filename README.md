@@ -89,6 +89,8 @@ I am a Full Stack Developer <img src="https://media1.giphy.com/media/cqPzadRAjAs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksharma67&layout=compact&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![Snake animation](https://github.com/ksharma67/ksharma67/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 <!---
