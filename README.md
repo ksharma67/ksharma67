@@ -23,7 +23,7 @@
 ---
 
 **About Me :** <img src="https://media1.giphy.com/media/cqPzadRAjAsGfWEGXK/giphy.gif?cid=ecf05e47eeanczbhw1ca6li0rvk8lqqs56g6jtt6fqi48ajq&rid=giphy.gif&ct=s" width="30">. <br>
-I am a passionate Full Stack Developer with expertise in building web applications. As a Software Engineer, I contribute to both frontend and backend development, utilizing my skills in frontend technologies like HTML, CSS, and JavaScript, as well as backend technologies such as Node.js, Express, and databases like MongoDB and SQL. 
+I am a passionate Full Stack Developer with expertise in building web applications. As a Software Engineer, I contribute to both frontend and backend development, utilizing my skills in frontend technologies, as well as backend technologies and databases. With a keen eye for detail and a commitment to writing clean, efficient code, I consistently deliver high-quality solutions that exceed client expectations. My strong problem-solving skills and ability to work collaboratively make me a valuable asset to any development team. 
 
 - :telescope: Currently, I am working on diverse projects where I apply my skills in developing scalable and user-friendly web applications. I thrive in dynamic and collaborative environments, constantly learning and improving my skills to stay up-to-date with the latest industry trends.
 
