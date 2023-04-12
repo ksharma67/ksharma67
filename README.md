@@ -22,15 +22,16 @@
 
 ---
 
-**About Me :**
-I am a Full Stack Developer <img src="https://media1.giphy.com/media/cqPzadRAjAsGfWEGXK/giphy.gif?cid=ecf05e47eeanczbhw1ca6li0rvk8lqqs56g6jtt6fqi48ajq&rid=giphy.gif&ct=s" width="30">.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+**About Me :** <img src="https://media1.giphy.com/media/cqPzadRAjAsGfWEGXK/giphy.gif?cid=ecf05e47eeanczbhw1ca6li0rvk8lqqs56g6jtt6fqi48ajq&rid=giphy.gif&ct=s" width="30">. <br>
+I am a passionate Full Stack Developer with expertise in building web applications. As a Software Engineer, I contribute to both frontend and backend development, utilizing my skills in frontend technologies like HTML, CSS, and JavaScript, as well as backend technologies such as Node.js, Express, and databases like MongoDB and SQL. 
 
-- :seedling: Exploring Object-oriented design and Systems design.
+- :telescope: Currently, I am working on diverse projects where I apply my skills in developing scalable and user-friendly web applications. I thrive in dynamic and collaborative environments, constantly learning and improving my skills to stay up-to-date with the latest industry trends.
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :seedling: Apart from my core skills, I am also keen on exploring Object-oriented design and Systems design, as I believe in continuously expanding my knowledge and expertise.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ksharma67)
+- :zap: In my free time, I enjoy solving coding challenges on platforms like Leetcode to enhance my problem-solving skills and keep myself challenged. I am also an avid reader of tech articles, always staying updated with the latest advancements in the field of technology.
+
+- :mailbox: You can reach me via LinkedIn at [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ksharma67), and I am open to connect and collaborate on exciting projects!
 
 ---
 
